@@ -1,0 +1,3 @@
+101,auth,login_ok
+102,api,timeout
+103,api,retry_ok
